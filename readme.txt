@@ -2,8 +2,9 @@
 2nd change
 3th in feature123
 4th in master test
-<<<<<<< HEAD
 5 th test
-=======
-5zeile feature123
->>>>>>> feature123
+comment1
+comment2
+comment3
+comment4
+comment5

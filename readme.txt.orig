@@ -1,0 +1,9 @@
+1st master
+2nd change
+3th in feature123
+4th in master test
+<<<<<<< HEAD
+5 th test master
+=======
+5zeile feature123
+>>>>>>> feature123
